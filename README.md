@@ -289,6 +289,10 @@ Tours*.
 
 ## Example
 
+An animated plot using this data is available (with code)
+[here](https://odaniel1.github.io/posts/2021-06-25-tdf-shape-21/). The
+example below creates a simple static plot.
+
 ``` r
 library(tdfData)
 library(ggplot2)
